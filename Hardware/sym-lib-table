@@ -1,0 +1,12 @@
+(sym_lib_table
+  (lib (name "Battery_Management_extlib")(type "KiCad")(uri "${KICAD_USER_LIB_DIR}\Lib\Battery_Management_extlib\Battery_Management_extlib.kicad_sym")(options "")(descr ""))
+  (lib (name "Converter_DCDC_extlib")(type "KiCad")(uri "${KICAD_USER_LIB_DIR}\Lib\Converter_DCDC_extlib\Converter_DCDC_extlib.kicad_sym")(options "")(descr ""))
+  (lib (name "Filter_extlib")(type "KiCad")(uri "${KICAD_USER_LIB_DIR}\Lib\Filter_extlib\Filter_extlib.kicad_sym")(options "")(descr ""))
+  (lib (name "Module_extlib")(type "KiCad")(uri "${KICAD_USER_LIB_DIR}\Lib\Module_extlib\Module_extlib.kicad_sym")(options "")(descr ""))
+  (lib (name "RF_Antenna_extlib")(type "KiCad")(uri "${KICAD_USER_LIB_DIR}\Lib\RF_Antenna_extlib\RF_Antenna_extlib.kicad_sym")(options "")(descr ""))
+  (lib (name "RF_Converter_extlib")(type "KiCad")(uri "${KICAD_USER_LIB_DIR}\Lib\RF_Converter_extlib\RF_Converter_extlib.kicad_sym")(options "")(descr ""))
+  (lib (name "RF_GNSS_extlib")(type "KiCad")(uri "${KICAD_USER_LIB_DIR}\Lib\RF_GNSS_extlib\RF_GNSS_extlib.kicad_sym")(options "")(descr ""))
+  (lib (name "RF_LNA_extlib")(type "KiCad")(uri "${KICAD_USER_LIB_DIR}\Lib\RF_LNA_extlib\RF_LNA_extlib.kicad_sym")(options "")(descr ""))
+  (lib (name "RF_Module_extlib")(type "KiCad")(uri "${KICAD_USER_LIB_DIR}\Lib\RF_Module_extlib\RF_Module_extlib.kicad_sym")(options "")(descr ""))
+  (lib (name "Sensor_Motion_extlib")(type "KiCad")(uri "${KICAD_USER_LIB_DIR}\Lib\Sensor_Motion_extlib\Sensor_Motion_extlib.kicad_sym")(options "")(descr ""))
+)
