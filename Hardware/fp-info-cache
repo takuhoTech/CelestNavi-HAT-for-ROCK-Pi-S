@@ -1,4 +1,4 @@
-24705998371427611
+24705998377832236
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62707,8 +62707,8 @@ chip coil inductor Murata LQW15A
 2
 Inductor_SMD_extlib
 L_Murata_LQW18ANxxxx80x_0603_1608Metric_1.65x0.99mm
-
-
+Inductor, Murata, LQW18A series, 0603 (1608 Metric) (https://search.murata.co.jp/Ceramy/image/img/P02/JLF243A-0102.pdf)
+chip coil inductor Murata LQW18A
 0
 2
 2
