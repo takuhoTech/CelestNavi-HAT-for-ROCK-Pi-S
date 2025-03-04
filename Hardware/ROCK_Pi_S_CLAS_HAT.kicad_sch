@@ -20022,6 +20022,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED_Small")
+		(at 170.18 132.08 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3c2f9e1e-99f2-40d8-9278-25afe91534c3")
+		(property "Reference" "D8"
+			(at 172.72 130.7464 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "PWR(RED)"
+			(at 172.72 133.2864 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+			(at 170.18 132.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 170.18 132.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode, small symbol"
+			(at 170.18 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2286"
+			(at 170.18 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Remark" "basic"
+			(at 170.18 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3de4b5b2-445a-4285-af3f-423e6975846c")
+		)
+		(pin "1"
+			(uuid "933e0d7f-9778-4c23-91bd-fe3e8951b34b")
+		)
+		(instances
+			(project "ROCK_Pi_S_CLAS_HAT"
+				(path "/1401f3f1-661a-4404-8760-75055dd5bd48"
+					(reference "D8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 139.7 170.18 0)
 		(mirror y)
@@ -22002,6 +22090,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 170.18 124.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "64b755a9-6ff9-478b-a109-7bec028b3630")
+		(property "Reference" "#PWR051"
+			(at 170.18 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 170.18 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 170.18 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 170.18 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 170.18 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dbc29394-0a23-4379-b7fe-b453af80dccc")
+		)
+		(instances
+			(project "ROCK_Pi_S_CLAS_HAT"
+				(path "/1401f3f1-661a-4404-8760-75055dd5bd48"
+					(reference "#PWR051")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 58.42 106.68 90)
 		(unit 1)
@@ -22915,6 +23068,94 @@
 			(project "ROCK_Pi_S_CLAS_HAT"
 				(path "/1401f3f1-661a-4404-8760-75055dd5bd48"
 					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 170.18 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "87d49672-caa2-49c2-acec-35ebe6a5f2e2")
+		(property "Reference" "R25"
+			(at 172.72 125.7299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1k"
+			(at 172.72 128.2699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 170.18 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 170.18 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 170.18 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C21190"
+			(at 170.18 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Remark" "basic"
+			(at 170.18 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "36bd9efe-4f09-4b44-ad97-c2dd2e58cf53")
+		)
+		(pin "2"
+			(uuid "2af3df62-c860-4a63-9ec0-c70ef71ba706")
+		)
+		(instances
+			(project "ROCK_Pi_S_CLAS_HAT"
+				(path "/1401f3f1-661a-4404-8760-75055dd5bd48"
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -24612,7 +24853,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RTK"
+		(property "Value" "RTK(YELLOW)"
 			(at 185.42 133.2864 90)
 			(effects
 				(font
@@ -24648,7 +24889,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2286"
+		(property "LCSC" "C72038"
 			(at 182.88 132.08 0)
 			(effects
 				(font
@@ -25547,7 +25788,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "PULSE"
+		(property "Value" "PULSE(WHITE)"
 			(at 185.42 151.0664 90)
 			(effects
 				(font
@@ -26024,6 +26265,71 @@
 			(project "ROCK_Pi_S_CLAS_HAT"
 				(path "/1401f3f1-661a-4404-8760-75055dd5bd48"
 					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 170.18 134.62 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e41a3462-78df-4d3e-a2be-f08ee241122c")
+		(property "Reference" "#PWR052"
+			(at 170.18 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 170.18 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 170.18 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 170.18 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 170.18 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "041dc6ab-8c77-4ee9-8e51-2455463bdc26")
+		)
+		(instances
+			(project "ROCK_Pi_S_CLAS_HAT"
+				(path "/1401f3f1-661a-4404-8760-75055dd5bd48"
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
