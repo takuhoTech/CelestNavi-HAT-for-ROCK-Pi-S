@@ -18037,7 +18037,7 @@
 				(hide yes)
 			)
 		)
-		(property "Remark" ""
+		(property "Remark" "Extended"
 			(at 35.56 43.18 0)
 			(effects
 				(font
@@ -18863,7 +18863,7 @@
 				(hide yes)
 			)
 		)
-		(property "Remark" ""
+		(property "Remark" "Extended"
 			(at 76.2 116.84 0)
 			(effects
 				(font
@@ -18992,7 +18992,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 40.64 25.4 0)
 			(effects
 				(font
@@ -19019,7 +19019,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22859"
+		(property "LCSC" "C25077"
 			(at 40.64 25.4 0)
 			(effects
 				(font
@@ -19263,7 +19263,7 @@
 				(hide yes)
 			)
 		)
-		(property "Remark" ""
+		(property "Remark" "Extended"
 			(at 83.82 149.86 0)
 			(effects
 				(font
@@ -19698,7 +19698,7 @@
 				(hide yes)
 			)
 		)
-		(property "Remark" ""
+		(property "Remark" "Extended"
 			(at 40.64 30.48 0)
 			(effects
 				(font
@@ -20260,7 +20260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Remark" ""
+		(property "Remark" "Extended"
 			(at 208.28 25.4 0)
 			(effects
 				(font
@@ -20312,7 +20312,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 35.56 30.48 0)
 			(effects
 				(font
@@ -20339,7 +20339,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
+		(property "LCSC" "C307331"
 			(at 35.56 30.48 0)
 			(effects
 				(font
@@ -20455,7 +20455,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DX07S016JA1R1500"
+		(property "Value" "GT-USB-7025"
 			(at 43.18 137.16 0)
 			(effects
 				(font
@@ -20464,7 +20464,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_JAE_DX07S016JA1R1500"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7025"
 			(at 44.45 116.84 0)
 			(effects
 				(font
@@ -20491,7 +20491,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C3197885"
+		(property "LCSC" "C963213"
 			(at 40.64 116.84 0)
 			(effects
 				(font
@@ -20500,7 +20500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Remark" "Low Stock"
+		(property "Remark" "Extended"
 			(at 40.64 116.84 0)
 			(effects
 				(font
@@ -21669,7 +21669,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DX07S016JA1R1500"
+		(property "Value" "GT-USB-7025"
 			(at 43.18 185.42 0)
 			(effects
 				(font
@@ -21678,7 +21678,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_JAE_DX07S016JA1R1500"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7025"
 			(at 44.45 165.1 0)
 			(effects
 				(font
@@ -21705,7 +21705,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C3197885"
+		(property "LCSC" "C963213"
 			(at 40.64 165.1 0)
 			(effects
 				(font
@@ -21714,7 +21714,7 @@
 				(hide yes)
 			)
 		)
-		(property "Remark" "Low Stock"
+		(property "Remark" "Extended"
 			(at 40.64 165.1 0)
 			(effects
 				(font
@@ -22303,7 +22303,7 @@
 				(hide yes)
 			)
 		)
-		(property "Remark" ""
+		(property "Remark" "Extended"
 			(at 30.48 40.64 0)
 			(effects
 				(font
@@ -22964,7 +22964,7 @@
 				(hide yes)
 			)
 		)
-		(property "Remark" ""
+		(property "Remark" "Extended"
 			(at 48.26 40.64 0)
 			(effects
 				(font
@@ -23372,7 +23372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Remark" ""
+		(property "Remark" "Extended"
 			(at 83.82 101.6 0)
 			(effects
 				(font
@@ -24256,7 +24256,7 @@
 				(hide yes)
 			)
 		)
-		(property "Remark" ""
+		(property "Remark" "Extended"
 			(at 83.82 76.2 0)
 			(effects
 				(font
@@ -25733,7 +25733,7 @@
 				(hide yes)
 			)
 		)
-		(property "Remark" ""
+		(property "Remark" "Extended"
 			(at 76.2 165.1 0)
 			(effects
 				(font
@@ -26569,7 +26569,7 @@
 				(hide yes)
 			)
 		)
-		(property "Remark" ""
+		(property "Remark" "Extended"
 			(at 109.22 91.44 0)
 			(effects
 				(font
